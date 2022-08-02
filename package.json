@@ -1,5 +1,5 @@
 {
-  "name": "sinon-chai",
+  "name": "sinon-chai-es",
   "description": "Extends Chai with assertions for the Sinon.JS mocking framework.",
   "keywords": [
     "chai",
